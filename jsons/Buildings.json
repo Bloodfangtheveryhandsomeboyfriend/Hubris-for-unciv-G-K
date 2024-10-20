@@ -8,5 +8,14 @@
 		"production":2,
 		"food": 2,
 		"faith": 2,
-	},	
-]
+	},
+	{
+		"name": "anger of the gods"
+		"cost": 0,
+		"isNational Wonder": true, 
+		"uniques": [automatically built in all cities where it is build able],
+		[can only be built in capital],
+		"triggers [the anger of the gods] event", 
+		"consumes [50] [Hubris]" 
+	}, 
+] 
