@@ -1,0 +1,35 @@
+[
+	    {
+        "name" : "The anger of the gods", 
+        "text" : " You have angered the gods, and they have sent rampaging hordes to punish you for your Hubris",
+        "choices" : [
+          {
+            "text" : "Alea iacta est, let the fates decide..."
+            "uniques":[ 
+                    " [3] free [Brute] units appear <for [Barbarians]>",
+                    " [3] free [Skirmisher] units appear <for [Barbarians]>", 
+                    " [3] free [Marauder] units appear <for [Barbarians]>",
+                    " [3] free [Galley] units appear <for [Barbarians]>"
+            ] 
+          } 
+        ] 
+      } 
+[
+
+
+                     
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+	
+    
