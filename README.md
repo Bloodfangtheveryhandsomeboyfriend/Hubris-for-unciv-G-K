@@ -1,5 +1,5 @@
-# Unciv-mod-example
+A WIP mod for God's and Kings that adds a resource: Hubris. 
 
-An example mod for Unciv, that adds one new Civilization.
+Gain enough Hubris and it will trigger events that spawn barbarians. 
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Powerful buildings can be built but they generate hubris. 
