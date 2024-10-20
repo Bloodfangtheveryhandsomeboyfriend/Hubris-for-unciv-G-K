@@ -5,16 +5,17 @@
 		"happiness": 2,
 		"culture": 2,
 		"science": 2,
-		"production":2,
+		"production": 2,
 		"food": 2,
 		"faith": 2,
+		"uniques": "provides [1] [Hubris]", 
 	},
 	{
 		"name": "anger of the gods"
 		"cost": 0,
 		"isNational Wonder": true, 
-		"uniques": [automatically built in all cities where it is build able],
-		[can only be built in capital],
+		"uniques": "automatically built in all cities where it is buildable",
+		"can only be built in capital",
 		"triggers [the anger of the gods] event", 
 		"consumes [50] [Hubris]" 
 	}, 
