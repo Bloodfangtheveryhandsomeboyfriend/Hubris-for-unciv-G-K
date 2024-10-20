@@ -1,1 +1,6 @@
-
+[	{
+		"name": "Hubris", 
+		"resourceType": "Strategic",
+    "uniques" : ["Cannot be traded","Stockpiled"] 
+	},
+ ] 
